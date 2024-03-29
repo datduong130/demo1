@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+vClock_Generator_Testbench
+!s110 1711679887
+!i10b 1
+!s100 MHNogWN;>B@=XJ@>z5D:V1
+I^TWm[F`jG8[@mOD<>ma=70
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dG:/testModule
+w1711679885
+Z2 8G:\testModule\clock_testbench.v
+Z3 FG:\testModule\clock_testbench.v
+L0 3
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+!s108 1711679887.000000
+Z5 !s107 G:\testModule\clock_testbench.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:\testModule\clock_testbench.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+n@clock_@generator_@testbench
+vClockGenerator
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 WOMaO=<PFdoZN[DbL0a4z2
+ISJ:mXYM6[2gdNc^P[FGQa3
+R1
+w1711679790
+8G:/testModule/ClockGeneator.v
+FG:/testModule/ClockGeneator.v
+L0 1
+R4
+!s108 1711680057.000000
+!s107 G:/testModule/ClockGeneator.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/testModule/ClockGeneator.v|
+!i113 0
+R7
+R8
+n@clock@generator
+vClockGenerator_Testbench
+!s110 1711680054
+!i10b 1
+!s100 0F=:H4K]gSUPEF;KnE_Ve1
+In8PiN5geR:0YZ^CM@PBbb1
+R0
+R1
+w1711680045
+8G:/testModule/clock_testbench.v
+FG:/testModule/clock_testbench.v
+L0 3
+R4
+r1
+!s85 0
+31
+!s108 1711680054.000000
+!s107 G:/testModule/clock_testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|G:/testModule/clock_testbench.v|
+!i113 0
+R7
+R8
+n@clock@generator_@testbench
+vclok_testbench
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 5ja3C6E^J9fZJj]_RV?J]2
+IXaIR_2F8<fTdL<oomUBSC2
+R1
+w1711679922
+R2
+R3
+L0 3
+R4
+!s108 1711679935.000000
+R5
+R6
+!i113 0
+R7
+R8
